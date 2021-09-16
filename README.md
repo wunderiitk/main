@@ -1,6 +1,9 @@
 # Wunder
 This is our entry to the hack of pi 2021 hackathon hosted on hackerearth.
 
+## Video of demo is present in second part of video presentation. 
+https://youtu.be/N_QVomExAFQ
+
 # Proposition
 We propose a new self-sufficient edtech model that isn’t logistically bound to rely on masses for revenue generation and can truly offer specialised content tailored to specific segments.
 
